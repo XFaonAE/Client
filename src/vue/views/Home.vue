@@ -4,3 +4,7 @@
 		<p>Ember Gui Framework</p>
 	</div>
 </template>
+
+<style lang="less" scoped>
+@import "Global";
+</style>
